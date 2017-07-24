@@ -19,9 +19,6 @@ What things you need to install the software and how to install them
 https://www.aerisweather.com/signup/developer/
 * You will need a version of Xcode 8 or higher
 
-```
-
-```
 
 ### Installing
 
